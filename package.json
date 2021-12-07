@@ -1,0 +1,23 @@
+{
+  "name": "exernodecrashcourse",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitlyn-ott/exerNodeCrashCourse.git"
+  },
+  "author": "Kaitlyn Ott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaitlyn-ott/exerNodeCrashCourse/issues"
+  },
+  "homepage": "https://github.com/kaitlyn-ott/exerNodeCrashCourse#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
